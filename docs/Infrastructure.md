@@ -1,10 +1,7 @@
 Jenkins Master and Jenkins Agent are key components in a Jenkins architecture. Here’s a breakdown of each:
 
 ## Jenkins Master (Server):
-- Role: The Master is the central control unit of Jenkins. It is responsible for orchestrating the entire CI/CD pipeline.
-
-
-- Central Control Unit: The Jenkins Master, also known as the Jenkins Server, is the central unit that controls the overall Jenkins environment. It manages and orchestrates the build processes.
+- Role: The Master is the central control unit of Jenkins. It is responsible for controlling the overall Jenkins environment. It manages and orchestrates the build processes.
 
 
 - Core Responsibilities:
@@ -18,10 +15,7 @@ Jenkins Master and Jenkins Agent are key components in a Jenkins architecture. H
 
 ## Jenkins Agent (Node):
 
-- Role: Agents (or Nodes) are machines that perform the actual build tasks as delegated by the Master. 
-
-
-- Distributed Execution: Jenkins Agents are machines that run jobs (builds, tests, deployments) as instructed by the Jenkins Master. They can be on a separate machine or even on a different operating system.
+- Role: Agents (or Nodes) are machines that perform the actual build tasks (run jobs such as builds, tests, deployments) as delegated by the Master. They can be on a separate machine or even on a different operating system.
 
 
 - Key Functions:
