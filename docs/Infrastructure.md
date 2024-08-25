@@ -41,6 +41,6 @@ Jenkins Master and Jenkins Agent are key components in a Jenkins architecture. H
 
 - Distributed Builds: Agents can be distributed across different locations or clouds, enabling Jenkins to leverage geographically dispersed resources.
 
-![img_1.png](img_1.png)
+![img.png](img.png)
 
 In summary, the Jenkins Master handles the orchestration, while Jenkins Agents are responsible for the actual execution of jobs, allowing for scalable and efficient continuous integration and delivery (CI/CD) pipelines.
