@@ -40,5 +40,3 @@ docker rm <name>
 
 ### Installation Reference:
 https://www.jenkins.io/doc/book/installing/docker/
-https://github.com/devopsjourney1/jenkins-101?tab=readme-ov-file
-
